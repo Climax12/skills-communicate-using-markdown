@@ -11,3 +11,7 @@
 ```css
 .BeautifulLyricsBackground-Container { display:none; } .BeautifulLyricsBackground { background-color:var(--spice-main); }
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
