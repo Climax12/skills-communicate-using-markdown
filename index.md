@@ -6,3 +6,8 @@
 ###### am i
 
 ![PFP of Climax12](https://avatars.githubusercontent.com/u/169449725)
+
+## Random code from my clipboard lol
+```css
+.BeautifulLyricsBackground-Container { display:none; } .BeautifulLyricsBackground { background-color:var(--spice-main); }
+```
